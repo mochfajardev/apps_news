@@ -53,7 +53,7 @@ Injeksi Ketergantungan dikelola menggunakan **Koin**, yang membantu dalam memisa
 
 1.  **Kloning repositori:**
     ```bash
-    git clone [https://url-repositori-anda.git](https://url-repositori-anda.git)
+    git clone [[https://url-repositori-anda.git](https://url-repositori-anda.git](https://github.com/mochfajardev/apps_news.git))
     ```
 2.  **Buka di Android Studio:** Buka proyek di versi terbaru Android Studio.
 3.  **Kunci API:** Proyek ini menggunakan NewsAPI. Anda harus mendapatkan kunci API Anda sendiri. Kunci saat ini di-hardcode di `NewsRepositoryImpl.kt`.
