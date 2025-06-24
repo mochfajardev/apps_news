@@ -1,4 +1,4 @@
-![Screenshot_20250624_103912](https://github.com/user-attachments/assets/c48def76-710c-4102-8b42-74c96c7cef7f)# Aplikasi Berita
+# Aplikasi Berita
 
 ![Home Aplikasi](screenshoot/Screenshot_20250624_103912.png)
 ![Article View](screenshoot/Screenshot_20250624_103945.png)
