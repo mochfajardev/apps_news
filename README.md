@@ -1,4 +1,8 @@
-# Aplikasi Berita
+![Screenshot_20250624_103912](https://github.com/user-attachments/assets/c48def76-710c-4102-8b42-74c96c7cef7f)# Aplikasi Berita
+
+![Home Aplikasi](screenshoot/Screenshot_20250624_103912.png)
+![Article View](screenshoot/Screenshot_20250624_103945.png)
+![Web View View](screenshoot/Screenshot_20250624_104006.png)
 
 Ini adalah aplikasi berita sederhana untuk Android, yang dibuat menggunakan praktik pengembangan Android modern. Aplikasi ini memungkinkan pengguna untuk menelusuri kategori berita, melihat sumber berita dalam kategori yang dipilih, dan membaca artikel dari sumber yang dipilih.
 
@@ -53,7 +57,7 @@ Injeksi Ketergantungan dikelola menggunakan **Koin**, yang membantu dalam memisa
 
 1.  **Kloning repositori:**
     ```bash
-    git clone [[https://url-repositori-anda.git](https://url-repositori-anda.git](https://github.com/mochfajardev/apps_news.git))
+    git clone [https://github.com/mochfajardev/apps_news.git]
     ```
 2.  **Buka di Android Studio:** Buka proyek di versi terbaru Android Studio.
 3.  **Kunci API:** Proyek ini menggunakan NewsAPI. Anda harus mendapatkan kunci API Anda sendiri. Kunci saat ini di-hardcode di `NewsRepositoryImpl.kt`.
